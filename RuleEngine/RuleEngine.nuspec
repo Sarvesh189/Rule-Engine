@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SimpleRuleEngine</id>
+    <version>1.0.4.1</version>
+    <title>SimpleBusinessRuleEngine</title>
+    <authors>Open Source Community</authors>
+    <owners>Open Source Community</owners>
+    <!--<licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>   
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>-->
+	 <projectUrl>http://simpleruleengine.tripod.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple Business Rule Engine. It enables programmers or developer to combine rule-based and object oriented programming methods to add business rules to new and existing applications.</description>
+    <releaseNotes>Simple Rule Engine compiled over .Net Framework 4.0. It is compatible with .net latest framework. Functionally no change.	sarvesh189@gmail.com</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Rule Engine</tags>
+  </metadata>
+</package>

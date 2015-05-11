@@ -1,0 +1,5 @@
+D:\RuleEngine\RuleEngine22\RuleEngine\RuleEngine\bin\Release\RuleEngine.dll
+D:\RuleEngine\RuleEngine22\RuleEngine\RuleEngine\bin\Release\RuleEngine.pdb
+D:\RuleEngine\RuleEngine22\RuleEngine\RuleEngine\obj\Release\RuleEngine.csprojResolveAssemblyReference.cache
+D:\RuleEngine\RuleEngine22\RuleEngine\RuleEngine\obj\Release\RuleEngine.dll
+D:\RuleEngine\RuleEngine22\RuleEngine\RuleEngine\obj\Release\RuleEngine.pdb

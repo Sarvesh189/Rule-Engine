@@ -1,0 +1,8 @@
+D:\RuleEngine\RuleEngine22\RuleEngine\SpeedTest\obj\Debug\SpeedTest.exe
+D:\RuleEngine\RuleEngine22\RuleEngine\SpeedTest\obj\Debug\SpeedTest.pdb
+D:\RuleEngine\RuleEngine22\RuleEngine\SpeedTest\obj\Debug\SpeedTest.csprojResolveAssemblyReference.cache
+D:\RuleEngine\RuleEngine22\RuleEngine\SpeedTest\bin\Debug\SpeedTest.exe.config
+D:\RuleEngine\RuleEngine22\RuleEngine\SpeedTest\bin\Debug\SpeedTest.exe
+D:\RuleEngine\RuleEngine22\RuleEngine\SpeedTest\bin\Debug\SpeedTest.pdb
+D:\RuleEngine\RuleEngine22\RuleEngine\SpeedTest\bin\Debug\RuleEngine.dll
+D:\RuleEngine\RuleEngine22\RuleEngine\SpeedTest\bin\Debug\RuleEngine.pdb

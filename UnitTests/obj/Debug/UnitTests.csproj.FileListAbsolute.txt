@@ -1,0 +1,9 @@
+D:\RuleEngine\RuleEngine22\RuleEngine\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\RuleEngine\RuleEngine22\RuleEngine\UnitTests\obj\Debug\UnitTests.dll
+D:\RuleEngine\RuleEngine22\RuleEngine\UnitTests\obj\Debug\UnitTests.pdb
+D:\RuleEngine\RuleEngine22\RuleEngine\UnitTests\bin\Debug\UnitTests.dll
+D:\RuleEngine\RuleEngine22\RuleEngine\UnitTests\bin\Debug\UnitTests.pdb
+D:\RuleEngine\RuleEngine22\RuleEngine\UnitTests\bin\Debug\nunit.framework.dll
+D:\RuleEngine\RuleEngine22\RuleEngine\UnitTests\bin\Debug\RuleEngine.dll
+D:\RuleEngine\RuleEngine22\RuleEngine\UnitTests\bin\Debug\nunit.framework.xml
+D:\RuleEngine\RuleEngine22\RuleEngine\UnitTests\bin\Debug\RuleEngine.pdb

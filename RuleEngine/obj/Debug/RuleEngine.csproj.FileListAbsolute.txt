@@ -1,0 +1,4 @@
+D:\RuleEngine\RuleEngine22\RuleEngine\RuleEngine\bin\Debug\RuleEngine.dll
+D:\RuleEngine\RuleEngine22\RuleEngine\RuleEngine\bin\Debug\RuleEngine.pdb
+D:\RuleEngine\RuleEngine22\RuleEngine\RuleEngine\obj\Debug\RuleEngine.dll
+D:\RuleEngine\RuleEngine22\RuleEngine\RuleEngine\obj\Debug\RuleEngine.pdb
